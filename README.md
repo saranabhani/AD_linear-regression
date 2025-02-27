@@ -1,1 +1,1 @@
-https://drive.google.com/file/d/1Dw5gKGmARI06HtNoK7S4O0iNRyRSQSoq/view?usp=drive_link
+To download the data: https://programminghistorian.org/assets/linear-regression/lesson-files.zip
